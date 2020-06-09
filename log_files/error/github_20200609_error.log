@@ -1,0 +1,12 @@
+time="2020-06-09T11:14:06.067289+07:00" level=error msg="Co loi xay ra" file=/Volumes/Data/study_golang_echo/backend-github-trending/main.go line=26
+time="2020-06-09T11:15:12.143756+07:00" level=error msg="Co loi xay ra" file=/Volumes/Data/study_golang_echo/backend-github-trending/main.go line=28
+time="2020-06-09T11:16:43.141038+07:00" level=error msg="Co loi xay ra" file=/Volumes/Data/study_golang_echo/backend-github-trending/main.go line=31
+time="2020-06-09T11:24:47.715224+07:00" level=error msg="Co loi xay ra" file=/Volumes/Data/study_golang_echo/backend-github-trending/main.go line=38
+time="2020-06-09T11:25:38.847926+07:00" level=error msg="sql: no rows in result set" file=/Volumes/Data/study_golang_echo/backend-github-trending/main.go line=35
+time="2020-06-09T15:30:17.046155+07:00" level=error msg="pq: duplicate key value violates unique constraint \"users_pkey\"" file=/Volumes/Data/study_golang_echo/backend-github-trending/repository/repo_imp/user_repo_imp.go line=34
+time="2020-06-09T15:36:55.301597+07:00" level=error msg="pq: duplicate key value violates unique constraint \"users_email_key\"" file=/Volumes/Data/study_golang_echo/backend-github-trending/repository/repo_imp/user_repo_imp.go line=34
+time="2020-06-09T15:37:45.325645+07:00" level=error msg="pq: duplicate key value violates unique constraint \"users_email_key\"" file=/Volumes/Data/study_golang_echo/backend-github-trending/repository/repo_imp/user_repo_imp.go line=34
+time="2020-06-09T15:37:56.77575+07:00" level=error msg="pq: duplicate key value violates unique constraint \"users_email_key\"" file=/Volumes/Data/study_golang_echo/backend-github-trending/repository/repo_imp/user_repo_imp.go line=34
+time="2020-06-09T15:40:36.357427+07:00" level=error msg="Key: 'RequestSignUp.Password' Error:Field validation for 'Password' failed on the 'required' tag" file=/Volumes/Data/study_golang_echo/backend-github-trending/handler/user_handler.go line=39
+time="2020-06-09T15:49:50.209578+07:00" level=error msg="pq: duplicate key value violates unique constraint \"users_email_key\"" file=/Volumes/Data/study_golang_echo/backend-github-trending/repository/repo_imp/user_repo_imp.go line=34
+time="2020-06-09T15:50:26.351364+07:00" level=error msg="pq: duplicate key value violates unique constraint \"users_email_key\"" file=/Volumes/Data/study_golang_echo/backend-github-trending/repository/repo_imp/user_repo_imp.go line=34
